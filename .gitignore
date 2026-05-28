@@ -1,0 +1,4 @@
+yoctosrc/meta-openembedded/
+yoctosrc/meta-raspberrypi/
+yoctosrc/poky/
+yoctosrc/build-rpi3/sstate-cache/
